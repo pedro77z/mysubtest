@@ -1,4 +1,4 @@
-ss://999999YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw
+ss://1999999YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@109.61.80.225:989#14%7C%F0%9F%87%A9%F0%9F%87%AA%20%E5%BE%B7%E5%9B%BD%7C@ripaojiedian
 trojan://1bf16b43-0ad5-4512-a0e8-34bb8966278e@uk.stablize.top:443?security=tls&type=tcp#%F0%9F%87%A9%F0%9F%87%AADE-91.195.240.12-8967
 trojan://89ce124f-42d1-4c90-b9d2-bde2861ae615@162.159.133.75:443?security=tls&sni=jp3.pqjc.buzz&type=tcp#%F0%9F%8F%81RELAY-162.159.133.75-11648
