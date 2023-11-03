@@ -1,0 +1,6 @@
+https://t.me/proxy?server=157.90.231.238&port=6968&secret=7ace64b91d9defc27d789168f6c449d6
+https://t.me/proxy?server=257.90.231.238&port=6968&secret=7ace64b91d9defc27d789168f6c449d6
+https://t.me/proxy?server=357.90.231.238&port=6968&secret=7ace64b91d9defc27d789168f6c449d6
+https://t.me/proxy?server=457.90.231.238&port=6968&secret=7ace64b91d9defc27d789168f6c449d6
+https://t.me/proxy?server=557.90.231.238&port=6968&secret=7ace64b91d9defc27d789168f6c449d6
+https://t.me/proxy?server=657.90.231.238&port=6968&secret=7ace64b91d9defc27d789168f6c449d6
